@@ -5,7 +5,7 @@ import Services from "./view/screen/Services";
 import Blog from "./view/screen/Blog";
 import Details from "./view/screen/Details";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Col, Container, Row, Button, Form, Nav, Navbar } from "react-bootstrap";
+import { Col, Container, Row, Button, Nav, Navbar } from "react-bootstrap";
 import { menubar } from "./view/data/Data";
 import './view/style/style.css'
 import Register from "./view/screen/Register";
